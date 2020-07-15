@@ -1,3 +1,13 @@
+Sample TODO APP:
+
+TODO Dashboard:
+
+![Todo Dashboard](https://github.com/smkswamy/todo-app/blob/master/dashboard.PNG)
+
+Add TODO:
+
+![Add Todo](https://github.com/smkswamy/todo-app/blob/master/add-todo.PNG)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
